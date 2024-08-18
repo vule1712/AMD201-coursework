@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg">
+                <div class="card-body text-center">
+                    <h1 class="display-4 mb-4">URL Shortener</h1>
+                    <form method="post" action="/UrlShortener/CreateShortUrl">
+                        <div class="input-group mb-3">
+                            <input type="url" name="originalUrl" class="form-control" placeholder="Enter a long URL" aria-label="URL" aria-describedby="button-shorten" required>
+                            <div class="input-group-append">
+                                <button class="btn btn-primary" type="submit" id="button-shorten">Shorten URL</button>
+                            </div>
+                        </div>
+                    </form>
+                    @if (ViewBag.Error != null)
+                    {
+                        <div class="alert alert-danger mt-3">@ViewBag.Error</div>
+                    }
+                    @if (ViewBag.ShortUrl != null)
+                    {
+                        <div class="alert alert-success mt-3">
+                            <strong>Shortened URL:</strong> 
+                            <a href="@ViewBag.ShortUrl" target="_blank" class="alert-link">@ViewBag.ShortUrl</a>
+                        </div>
+                    }
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <div class="mt-4">
+                            <a class="btn btn-secondary" href="@Url.Action("MyUrls", "UrlShortener")">View My Shortened URLs</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|c:\\users\\admin\\source\\repos\\amd201\\coursework\\urlshortenermvc\\urlshortenermvc\\controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|solutionrelative:urlshortenermvc\\controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|c:\\users\\admin\\source\\repos\\amd201\\coursework\\urlshortenermvc\\urlshortenermvc\\models\\urlshortenermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|solutionrelative:urlshortenermvc\\models\\urlshortenermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|c:\\users\\admin\\source\\repos\\amd201\\coursework\\urlshortenermvc\\urlshortenermvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|solutionrelative:urlshortenermvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|c:\\users\\admin\\source\\repos\\amd201\\coursework\\urlshortenermvc\\urlshortenermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|solutionrelative:urlshortenermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|c:\\users\\admin\\source\\repos\\amd201\\coursework\\urlshortenermvc\\urlshortenermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|solutionrelative:urlshortenermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|c:\\users\\admin\\source\\repos\\amd201\\coursework\\urlshortenermvc\\urlshortenermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EBC228-6F13-43E3-8E22-5E80614B22E4}|UrlShortenerMVC\\UrlShortenerMVC.csproj|solutionrelative:urlshortenermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "UrlShortenerMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\appsettings.json",
+              "RelativeToolTip": "UrlShortenerMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T07:30:09.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortenerMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Program.cs",
+              "RelativeToolTip": "UrlShortenerMVC\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:50:05.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UrlShortenerMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UrlShortenerMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "UrlShortenerMVC\\Data",
+              "WhenOpened": "2024-08-12T09:48:59.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrlShortenerController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Controllers\\UrlShortenerController.cs",
+              "RelativeDocumentMoniker": "UrlShortenerMVC\\Controllers\\UrlShortenerController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Controllers\\UrlShortenerController.cs",
+              "RelativeToolTip": "UrlShortenerMVC\\Controllers\\UrlShortenerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "UrlShortenerMVC\\Controllers",
+              "WhenOpened": "2024-08-12T09:47:43.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlShortenerModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Models\\UrlShortenerModel.cs",
+              "RelativeDocumentMoniker": "UrlShortenerMVC\\Models\\UrlShortenerModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Models\\UrlShortenerModel.cs",
+              "RelativeToolTip": "UrlShortenerMVC\\Models\\UrlShortenerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:47:24.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UrlShortenerMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\AMD201\\coursework\\UrlShortenerMVC\\UrlShortenerMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UrlShortenerMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:46:55.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<UrlShortenerMVC.Models.UrlShortenerModel>
+
+@{
+    ViewData["Title"] = "My URLs";
+}
+
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg">
+                <div class="card-body">
+                    <h1 class="display-4 mb-4">My Shortened URLs</h1>
+                    @if (!Model.Any())
+                    {
+                        <p>No URLs found.</p>
+                    }
+                    else
+                    {
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Original URL</th>
+                                    <th scope="col">Shortened URL</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var url in Model.Select((value, index) => new { value, index }))
+                                {
+                                    <tr>
+                                        <td>@(url.index + 1)</td>
+                                        <td>@url.value.OriginalUrl</td>
+                                        <td>
+                                            <a href="@Url.Action("RedirectUrl", "UrlShortener", new { shortCode = url.value.ShortCode })" target="_blank">
+                                                @Url.Action("RedirectUrl", "UrlShortener", new { shortCode = url.value.ShortCode })
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
